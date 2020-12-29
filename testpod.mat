@@ -1,0 +1,15 @@
+# Created by Octave 5.2.0, Tue Dec 29 15:50:59 2020 CET <mirjana@mirjana-Inspiron-5558>
+# name: testpod
+# type: matrix
+# rows: 8
+# columns: 2
+ 1 1
+ 2 3
+ 3 5
+ 4 9
+ 5 17
+ 6 28
+ 7 40
+ 8 67
+
+
